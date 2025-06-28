@@ -70,7 +70,7 @@
 
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+[![Confluence](https://img.shields.io/badge/confluence-172B4D?logo=confluence&logoColor=white)](#)
 
 ## Deployment
 
